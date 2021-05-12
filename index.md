@@ -8,7 +8,7 @@
       <p><b>邮箱：jiayichen012@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="./cjy_01.jpg" width="100%">
+      <img src="/cjy_01.jpg" width="100%">
     </td>
   </tr>
 </table>
