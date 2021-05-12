@@ -8,7 +8,7 @@
       <p><b>邮箱：jiayichen012@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/cjy_01.jpg" width="100%">
+      <img src="https://mypics.zhaopin.cn//avatar/2020/12/12/9f3f3b71-ad05-4db6-9a6c-1371a41aa7cf.jpg" width="100%">
     </td>
   </tr>
 </table>
