@@ -19,7 +19,7 @@
 - Vue、NodeJs
 
 ### 项目展示
-#### 个人空间
+- 个人空间
    <img src="/imgMySite/homePage01.png" width="100%">
    <img src="/imgMySite/homePage02.png" width="100%">
    <img src="/imgMySite/blog01.png" width="100%">
@@ -28,3 +28,8 @@
    <img src="/imgMySite/about01.png" width="100%">
    <img src="/imgMySite/project01.png" width="100%">
    <img src="/imgMySite/message01.png" width="100%">
+
+- 音乐播放器
+   <img src="/musicPlayer/01.png" width="50%">
+   <img src="/musicPlayer/02.png" width="50%">
+   <img src="/musicPlayer/03.png" width="50%">
