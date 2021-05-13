@@ -30,6 +30,7 @@
    <img src="/imgMySite/message01.png" width="100%">
 
 - 音乐播放器
+  <table border="0">
    <br />
    <tr>
     <td width="33%">
@@ -42,3 +43,4 @@
       <img src="/musicPlayer/03.png" width="100%">
     </td>
    </tr>
+   </table>
