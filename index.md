@@ -26,5 +26,5 @@
    <img src="/imgMySite/blog02.png" width="100%">
    <img src="/imgMySite/blog03.png" width="100%">
    <img src="/imgMySite/about01.png" width="100%">
-   <img src="/imgMySite/project.png" width="100%">
+   <img src="/imgMySite/project01.png" width="100%">
    <img src="/imgMySite/message01.png" width="100%">
