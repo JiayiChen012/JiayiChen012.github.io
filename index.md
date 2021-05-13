@@ -31,6 +31,14 @@
 
 - 音乐播放器
    <br />
-   <img src="/musicPlayer/01.png" width="50%">
-   <img src="/musicPlayer/02.png" width="50%">
-   <img src="/musicPlayer/03.png" width="50%">
+   <tr>
+    <td width="33%">
+      <img src="/musicPlayer/01.png" width="100%">
+    </td>
+    <td width="33%">
+      <img src="/musicPlayer/02.png" width="100%">
+    </td>
+    <td width="33%">
+      <img src="/musicPlayer/03.png" width="100%">
+    </td>
+   </tr>
