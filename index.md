@@ -20,11 +20,11 @@
 
 ### 项目展示
 #### 个人空间
-   <img src="/imgMySite/homePage01.jpg" width="100%">
-   <img src="/imgMySite/homePage02.jpg" width="100%">
-   <img src="/imgMySite/blog01.jpg" width="100%">
-   <img src="/imgMySite/blog02.jpg" width="100%">
-   <img src="/imgMySite/blog03.jpg" width="100%">
-   <img src="/imgMySite/about01.jpg" width="100%">
-   <img src="/imgMySite/project.jpg" width="100%">
-   <img src="/imgMySite/message01.jpg" width="100%">
+   <img src="/imgMySite/homePage01.png" width="100%">
+   <img src="/imgMySite/homePage02.png" width="100%">
+   <img src="/imgMySite/blog01.png" width="100%">
+   <img src="/imgMySite/blog02.png" width="100%">
+   <img src="/imgMySite/blog03.png" width="100%">
+   <img src="/imgMySite/about01.png" width="100%">
+   <img src="/imgMySite/project.png" width="100%">
+   <img src="/imgMySite/message01.png" width="100%">
