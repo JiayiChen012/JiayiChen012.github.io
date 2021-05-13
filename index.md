@@ -39,7 +39,7 @@
     <td width="33%">
       <img src="/musicPlayer/02.png" width="100%">
     </td>
-    <td width="34%">
+    <td width="33%">
       <img src="/musicPlayer/03.png" width="100%">
     </td>
    </tr>
